@@ -1,0 +1,5 @@
+spring:
+  data:
+      mongodb:
+        database: floatcare_legal_db
+        port: 27017
